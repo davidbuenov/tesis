@@ -15,6 +15,9 @@
 Escucha el resumen generado por NotebookLM [aquí](https://davidbuenov.github.io/tesis/ResumenTesisNotebookLM.wav)
 ## Documento completo 
 El pdf final de la tesis doctoral puede descargarse [aquí](https://davidbuenov.github.io/tesis/Tesis%20Doctoral%20David%20Bueno.pdf)
+## Referencia
+ [Formato RIS](https://davidbuenov.github.io/tesis/dialnet.ris)
+ [Formato BIB](https://davidbuenov.github.io/tesis/dialnet.bib)
 ## Resumen Ejecutivo
 
 Esta tesis aborda el problema de la sobrecarga de información y la falta de personalización en los sistemas de recuperación de la información (Information Retrieval Systems - IRS), como los motores de búsqueda web [4-7]. Propone una nueva visión de la personalización **orientada a los objetivos del usuario**, a diferencia del refinamiento de consultas tradicional [4, 6, 8]. El trabajo ofrece una arquitectura y los algoritmos necesarios para implementar sistemas IRS que proporcionen respuestas personalizadas en función de las necesidades/objetivos del usuario en cada momento [9]. Se ha comprobado la validez de la propuesta mediante la implementación de un sistema llamado **METIORE** [10-13] que incluye las ideas presentadas y ha sido evaluado en entornos convencionales y web aplicados a bases de datos bibliográficas [10].
