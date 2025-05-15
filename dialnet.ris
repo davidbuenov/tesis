@@ -1,0 +1,23 @@
+TY  - THES
+AU  - BUENO VALLEJO, DAVID
+AU  - Ricardo Conejo Muñoz (dir. tes.)
+AU  - Amos David (codir. tes)
+AU  - Francisco Triguero Ruiz (pres.)
+AU  - José Luis Pérez de la Cruz (secr.)
+AU  - Beatriz Barros Blanco (voc.)
+AU  - Jesús García Boticario (voc.)
+AU  - Maite Urretavizcaya Loinaz (voc.)
+T1  - Recomendación personalizada de documentos en sistemas de recuperación de la información basada en objetivos
+LA  - spa
+PY  - 2003/05/16/
+PB  - Universidad de Málaga
+AB  - Los sistemas de recuperación de información surgen de la necesidad del hombre de organizar la información contenida en bibliotecas para poder localizar todos los documentos contenidos en ellas. En la actualidad todo el que se conecta a la Web está en contacto con sistemas como Altavista, Google o Yahoo. El problema de estos buscadores es que a veces devuelven cientos o miles de resultados de los que el usuario sólo va a considerar los 20 ó 30 primeros. La ordenación que realizan devuelve los documentos web que mejor corresponden a la consulta, pero eso no quiere decir que sean los más interesantes para el usuario. Muchas veces el usuario no experto encuentra dificultades en expresar su necesidad de información en el lenguaje de consulta que le ofrece el sistema, con lo que no encuentra los documentos aunque éstos estén en el sistema.
+Una posible solución al problema de recuperación de información viene dada por la aplicación de un modelo del usuario que permita ofrecer una respuesta personalizada de acuerdo a las preferencias y necesidades de cada individuo.
+Los aspectos más importantes a adaptar estarán relacionados con la ordenación de los resultados de acuerdo a las necesidades del usuario y con las facilidades ofrecidas para realizar las búsquedas.
+Esta tesis ofrece resultados relativos al estudio de la personalización en los sistemas de recuperación de información. Se ofrece una nueva visión de las personalización en estos sistemas orientada a los objetivos del usuario, frente al refinamiento de consultas utilizado en otros sistemas.
+La mayoría de los sistemas que ofrecen algún tipo de personalización suelen tener una visión general de los intereses de los usuarios y tienen un único modelo para cada usuario. En el enfoque propuesto, un usuario puede tener diferentes intereses que no tienen porque guardar relación. De esta forma, cuando esté interesado en un objetivo, sólo se le ofrecerán documentos
+L3  - https://www.educacion.gob.es/teseo/imprimirFichaConsulta.do?idFicha=95261
+UR  - https://portaldelainvestigacion.uma.es/documentos/6393e034a88bbe44501dad52
+DP  - Dialnet - Portal de la Investigación
+ER  - 
+
