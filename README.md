@@ -16,6 +16,18 @@ Escucha el resumen generado por NotebookLM [aquí](https://davidbuenov.github.io
 ## Documento completo 
 El pdf final de la tesis doctoral puede descargarse [aquí](https://davidbuenov.github.io/tesis/Tesis%20Doctoral%20David%20Bueno.pdf)
 ## Referencia
+MLA:     Bueno Vallejo, David. Recomendación personalizada de documentos en sistemas de recuperación de la información basada en objetivos. 2003.
+
+APA:     Bueno Vallejo, D. (2003). Recomendación personalizada de documentos en sistemas de recuperación de la información basada en objetivos.
+
+Chicago: Bueno Vallejo, David. «Recomendación personalizada de documentos en sistemas de recuperación de la información basada en objetivos», 2003.
+
+Harvard: Bueno Vallejo, D. (2003) Recomendación personalizada de documentos en sistemas de recuperación de la información basada en objetivos.
+
+Vancouver:  Bueno Vallejo D. Recomendación personalizada de documentos en sistemas de recuperación de la información basada en objetivos. 2003.
+
+
+ [Teseo](https://www.educacion.gob.es/teseo/imprimirFichaConsulta.do?idFicha=95261)
  [Formato RIS](https://davidbuenov.github.io/tesis/dialnet.ris)
  [Formato BIB](https://davidbuenov.github.io/tesis/dialnet.bib)
 ## Resumen Ejecutivo
