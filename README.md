@@ -10,6 +10,8 @@
 
 **Fecha de presentación/aprobación:** Mayo de 2002 [2] / 25 de marzo de 2003 [3]
 
+[Enlace a página oficial de RIUMA](https://riuma.uma.es/xmlui/handle/10630/39145)
+
 ---
 ## Resumen Audio
 Escucha el resumen generado por NotebookLM [aquí](https://davidbuenov.github.io/tesis/ResumenTesisNotebookLM.wav)
